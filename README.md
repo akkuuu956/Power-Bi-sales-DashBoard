@@ -1,25 +1,24 @@
 # Power-Bi-sales-DashBoard
 we analyze an eCommerce sales data set using Power BI to gain insights into sales revenue, delivery times, product profitability, customer segments, and more. We showcase the power of Power BI in visualizing complex data and providing actionable insights for business decisions
 
+ Here are some key notes on the Sales Dashboard:
 
-However, I can describe generally how I would approach analyzing the data to answer those types of questions if I did have access:
+- The dashboard shows total sales of $2M, with sales increasing year over year from 2012 to 2015.
 
-1. Total sales: To calculate total sales revenue for each year, I would likely aggregate the sales data by year and sum the sales amounts. To calculate growth, I could compare the totals year-over-year. 
+- Average delivery time is 4 days. Total quantity sold is 31K. Total returns are low at 214. 
 
-2. Average delivery time: I would aggregate the delivery time data by year and take the mean. I could visualize this in a chart to see if times improved or worsened.
+- Top 5 products by profit are electronics like phones, tablets, etc. Ibico is the most profitable at $4.6K profit. 
 
-3. Total quantity sold: I would sum the quantity sold per product per year. I could then rank products to see if any sold particularly well. 
+- Top customers by sales value are all individuals, with Sean Miller being the biggest customer with $27K in sales.
 
-4. Total returns: I would sum return amounts per year and calculate as a percentage of sales per year to analyze trends.
+- 51.94% of sales come from Consumer segment, 30.61% from Corporate segment, and 17.44% from Home Office segment.  
 
-5. Top products by profit: I would calculate profitability per product (likely sales - costs) and rank products by profit per year. I could visualize yearly changes.  
+- Asia Pacific region makes up the largest share of sales geographically at 31.59%.
 
-6. Top customers: Rank customers by total sales per year to analyzeconsistencies.
+- The bottom section shows top 5 products with losses - Office supplies, Cisco, Lexmark, GBC, and HP products make losses ranging from $1.5K to $3.2K.
 
-7. Segment sales: Sum sales by segment and year and analyze trends over time, flagging exceptionally performing or poorly performing segments. 
+- The map shows sales performance globally, with strong sales in US, Europe, and Australia. Weaker performance in Africa and South America.
 
-8. Sales by geography: Plot sales data on a map visualization to identify regional patterns. Look at metrics like average sales or number of customers in urban vs. rural areas.
+In summary, it is a dashboard providing insightful snapshots into key sales metrics - products, customers, segments, geographies, profits/losses - to help guide business decisions. 
 
-9. Market-wise sales: Identify relevant markets, sum sales per market per year, and analyze for trends over time. Flag markets that stand out for better or worse performance.
 
-In summary, I would leverage aggregation, summation, ranking, segmentation, and visualization to derive insights from the data for the key business questions posed.
